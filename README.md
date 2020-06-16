@@ -1,3 +1,10 @@
+# Lista e filtra países com suas respectivas populações
+
+    "materialize-css": "1.0.0",
+    "react": "16.13.1",
+    "react-dom": "16.13.1",
+    "react-scripts": "3.4.1"
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
